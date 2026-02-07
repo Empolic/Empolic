@@ -36,6 +36,7 @@
 	
 	def Ambitions():
 		LearningToCode()
+		FinallyHittingThatGuitarSolo()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
